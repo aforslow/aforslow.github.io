@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+
+<style>
+
+
+
+
+body, html {
+	/*background-color: rgb(30,30,30);*/
+	background-color: white;
+	/*background-color: rgb(230,230,230);*/
+	margin: 0;
+}
+
+/*nav {
+	width: 100%;
+	background-color: #33ccff;
+	height: 70px;
+	color: white;
+	opacity: 50%;
+}*/
+
+.main-menu {
+	text-align: center;
+	/*background-color: #33ccff;*/
+	height: 70px;
+	overflow: hidden;
+	color: white;
+	padding: 0;	
+	margin: 0px 0px;
+	background-image: url("images/sunset4.jpg");
+	background-size: 100% auto;
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	/*opacity: 0.8;*/
+	filter: brightness(120%);
+}
+
+.main-menu > ul {
+	margin: 0px 30px 0px 0px;
+	padding: 0px;
+	float: right;
+	list-style-type: none;
+}
+
+.main-menu > ul > li {
+	float: right;
+	padding-left: 0px;
+}
+
+.nav-item {
+	display: inline-block;
+	padding: 15px 20px;
+	height: 40px;
+	line-height: 40px;
+	text-decoration: none;
+	color: white;
+}
+
+.nav-item:hover {
+	/*background-color: #66d9ff;*/
+	/*opacity: 0.4;*/
+	border-bottom: 1px solid #33ccff;
+	padding-bottom: 0px;
+}
+
+.dropdown-content {
+	position: absolute;
+	height: 70px;
+	overflow: hidden;
+	background-color: #33ccff;
+	max-height: 0px;
+}
+
+.dropdown-content a {
+	color: white;
+	text-decoration: none;
+}
+
+.dropdown-content a:hover {
+	text-decoration: underline;
+}
+
+#dropdown1:hover ~ .dropdown-content {
+	max-height: 400px;
+}
+
+.dropdown-content-sub {
+	padding: 20px;
+}
+
+.dropdown-content-sub ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.dropdown-content-sub ul li a {
+	display: inline-block;
+	padding: 5px 0px;
+}
+
+
+.logo-btn {
+	float: left;
+	overflow: hidden;
+	height: 40px;
+	padding: 15px 30px;
+	line-height: 50px;
+	margin-left: 10px;
+}
+
+.logo-btn > a {
+	text-decoration: none;
+	color: #33ccff;
+	font-family: "Brush Script MT", cursive;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.post {
+	position: relative;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	/*max-width: 700px;*/
+	margin-right: 10px;
+	background-color: rgb(100,100,100);
+	/*background-color: #e6f9ff;*/
+	/*background-color: white;*/
+	/*border-radius: 10px;*/
+	padding: 1px;
+	min-height: 120px;
+	z-index: 2;
+	height: 250px;
+}
+
+.post-content-main-avatar {
+	position: absolute;
+	z-index: 3;
+	bottom: 5px;
+	left: -80px;
+	/*bottom: 0px;*/
+	/*float: left;*/
+	/*right: -50px;*/
+	/*border: 2px solid white;*/
+	/*border-radius: 100px;*/
+	width: 100px;
+}
+
+.post-content-main-avatar > img {
+	width: 100%;
+	height: 100px;
+	max-width: 100%;
+	max-height: 100%;
+	border: 2px solid white;
+	border-radius: 10000px;
+	/*right: -1000px;*/
+}
+
+.post-content-left {
+	position: relative;
+	/*left: -12px;*/
+	float: left;
+	/*background-color: rgb(120,120,120);*/
+	background-color: white;
+	width: 64.5%;
+	/*border-radius: 10px;*/
+	min-height: 240px;
+	z-index: 2;
+}
+
+.post-content-left-text {
+	position: relative;
+	display: block;
+	margin-left: 50px;
+	margin-right: 50px;
+	float: left;
+	/*color: rgb(230,230,230);*/
+}
+
+.post-content-right {
+	position: relative;
+	float: left;
+	margin-left: 3px;
+	background-color: rgb(100,100,100);
+	/*background-color: #d9d9d9;*/
+	color: white;
+	width: 35%;
+	border-radius: 10px;
+	height: 240px;
+}
+
+.post-content-right-content {
+	position: absolute;
+	/*margin: 5px;*/
+	/*max-height: 100%;*/
+	/*background-color: black;*/
+	/*border: 5px solid black;*/
+	overflow: auto;
+	/*border-radius: 10px;*/
+	/*bottom: 0px;*/
+	/*bottom: 5px;*/
+}
+
+.post-content-right-content > img {
+	position: relative;
+	max-height: 10%;
+	max-width: 100%;
+	border-radius: 10px;
+	bottom: 0;
+}
+
+/*.marcus_maria {
+	height: 500px;
+}*/
+
+.post > img {
+	/*max-width: 500px;*/
+	height: 500px;
+	border-radius: 10px;
+}
+
+.middle-area {
+	background-color: rgb(230,230,230);
+	margin-left: 100px;
+	margin-right: 70px;
+}
+
+
+@media screen and (max-width: 670px) {
+
+	.main-menu > ul {
+		float: right;
+		margin-right: 5px;
+	}
+
+	.main-menu > ul > li {
+		box-sizing: border-box;
+		/*width: 35%;*/
+		/*padding: 15px;*/
+		float: right;
+		margin-left: 0px;
+	}
+
+	.nav-item {
+		padding: 15px 10px;
+	}
+}
+
+.top-nav {
+	z-index: 4;
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+
+.sunset {
+	position: relative;
+	width: 100%;
+	z-index: 1;
+	/*top: 20px;*/
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	border-bottom: 10px solid black;
+	/*border-top: 5px solid black;*/
+}
+
+.sunset > img {
+	display: block;
+	height: auto;
+	width: 100%;
+	/*filter: brightness(85%);*/
+}
+
+.inspirational-text {
+	position: absolute;
+	top: 200px;
+	left: 70px;
+	width: 150px;
+	z-index: 3;
+	color: #33ccff;
+	font-size: 25px;
+	font-family: "Brush Script MT", cursive;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+}
+
+</style>
+</head>
+<body>
+<div class="sunset"><img src="images/sunset4.jpg"></div>
+<div class="top-nav">
+
+	
+	
+	<nav class="main-menu">
+		<div class="logo-btn"><a href="#logo">Andreas Travels</a></div>
+		<ul>
+		  <li class="first_btn">
+		  	<a href="#home" class="nav-item">Home</a>
+		  </li>
+		  <li><a href="#news" class="nav-item">Gallery</a></li>
+		  <li><a href="#map" class="nav-item">Map</a></li>
+		  <li class="dropdown">
+		    <a href="javascript:void(0)" class="nav-item" name="dropdown1">Dropdown</a>
+		    <div class="dropdown-content">
+			    <div class="dropdown-content-sub">
+			      <a href="#">Link 1</a>
+			      <a href="#">Link 2</a>
+			      <a href="#">Link 3</a>
+			    </div>
+		    </div>
+		  </li>
+		</ul>
+	</nav>
+</div>
+
+<!-- <div class="inspirational-text"><p>Man's greatest fear is not having used his gifts to the fullest.</p></div> -->
+<div class="middle-area">
+	<div class="post">
+		<div class="post-content-main-avatar"><img src="images/sunset2.jpg"/>
+		</div>
+		<div class="post-content-left">
+			<div class="post-content-left-text">
+				<h3>Dropdown Menu inside a Navigation Bar</h3>
+				<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
+				<p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam esse optio exercitationem quasi consequuntur id, vero iste veritatis. Repellendus dolorem itaque necessitatibus delectus quasi facilis adipisci earum expedita qui modi.</span>
+				<span>Debitis quod, doloribus, possimus quasi numquam ab. Quaerat modi ullam repudiandae voluptatum ut ducimus, impedit? Expedita fugiat dolore, alias dolorum dicta recusandae voluptas similique quod, laudantium quasi minus, amet quis.</span>
+				<span>Odit nesciunt, quas ipsam earum repellendus! Quis autem sed ad laudantium laboriosam unde repellat ea iure. Consequatur suscipit sequi, labore tempora, aliquid id pariatur facilis eaque dolorem, voluptas voluptates enim.</span></p>
+			</div>
+		</div>
+		<div class="post-content-right">
+			<div class="post-content-right-content">
+				<h3>Right area...</h3>
+			</div>
+		</div>
+	</div>
+
+	<div class="post">
+		<div class="post-content-main-avatar"><img src="images/andreas_lykta.jpg"/>
+		</div>
+		<div class="post-content-left">
+			<div class="post-content-left-text">
+			<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae magnam suscipit, reprehenderit, eveniet reiciendis repellat sapiente sed. Facere amet quidem culpa quod velit esse, harum alias. Ea rem praesentium mollitia.</div>
+			<div>Voluptatum ea non nihil culpa quam, sunt facilis deserunt, numquam ratione, dolorum debitis quia, error ut placeat laboriosam! Repudiandae error provident minus dicta praesentium, accusamus dolorum unde deleniti laudantium animi!</div>
+			<div>Incidunt ullam eligendi fugit a vitae optio aut rem eveniet omnis accusamus, porro, harum, quibusdam ducimus debitis perferendis. Debitis nesciunt officia, error vitae, dignissimos commodi distinctio ad voluptas eveniet amet.</div>
+			<div>Sunt tempore distinctio quas ad. Sequi voluptates veritatis odit ullam in cum nobis voluptatibus dolorum id perspiciatis. Sequi, quaerat reprehenderit dolorum molestiae, quia architecto sunt commodi quo nihil aperiam, libero.</div>
+			<div>Alias omnis illum vero pariatur, tenetur, dolore velit tempore sint eius modi, facere voluptatibus aperiam nihil quod. Inventore temporibus iure delectus, neque, sed, iusto quis laborum, obcaecati aliquid dolorum corporis.</div>
+				<!-- <h3>Marcus och Maria var på besök i torsdags</h3>
+				<p>Vi käkade en jäkligt god pizza, och sedan stack vi till mitt favoritställe, inferno, och drack bärs.
+				Sist av allt fick de för första och sista gången se mitt rum och korridoren. Fett!</p>
+				<p>Nu sitter jag och försöker pilla lite på denna blogg.</p>
+				<p>Jag slutade mitt jobb i fredags, och lovade att ha den här klar lagom till resan. Så det är det jag gör nu! Hoppas att jag kommer lyckas få till den tillräckligt bra lagom till avfärd!</p>
+				<p>Här kommer sista paragrafen för att se vad som händer med innehållet när det blir längre än behållaren...</p>
+				<p>blablablablabla</p> -->
+			</div>
+		</div>
+		<div class="post-content-right">
+			<div class="post-content-right-content">
+				<img src="images/marcus_maria.jpg">
+			</div>
+		</div>
+	</div>
+
+	<div class="post" id="clear-parent">
+		<div class="post-content-main-avatar"><img src="images/sunset2.jpg"/> </div>
+		<img class="marcus_maria" src="images/marcus_maria.jpg">
+	</div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+$(window).bind("load", function() {
+	adjust('.post');
+	
+	adjust('.post-content-right-content');
+	adjust('.post-content-right');
+	adjust_right();
+	function adjust(class_name) {
+		
+		$(class_name).each(function(i, obj) {
+			var maxHeight = 0;
+			$(obj).children().each(function(j, obj2) {
+				maxHeight = ($(obj2).height() > maxHeight ? $(obj2).height() : maxHeight);
+			});
+			$(obj).css("min-height", maxHeight)
+		});
+	}
+
+	function adjust_right() {
+		$('.post').each(function(i, parent) {
+			var maxHeight = 0;
+			$(parent).children().each(function(j, child) {
+				maxHeight = ($(child).height() > maxHeight ? $(child).height() : maxHeight);
+			});
+			var right_content = $(parent).find('.post-content-right');
+			if (right_content.length) {
+				right_content.css("min-height", maxHeight);
+			}
+		});
+	}
+});
+
+</script>
+
+</body>
+</html>
