@@ -61,7 +61,7 @@ High waves to be surfing down <br />
 
 Oh, and welcome to my travelling blog!
 
-
+{{ page.url | absolute_url }}
 <!-- {% if site.comments %}
 <div id="disqus_thread"></div>
 <script>
