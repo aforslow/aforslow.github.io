@@ -59,7 +59,7 @@ City lights, <br />
 High waves to be surfing down <br />
 <br />
 
-Oh, and welcome to my blog!
+Oh, and welcome to my travelling blog!
 
 
 <!-- {% if site.comments %}

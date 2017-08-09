@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 disqus:
   hostname: https-aforslow-github-io
-environment: production
+# environment: production
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
