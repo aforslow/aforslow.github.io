@@ -24,10 +24,6 @@ Anyways, let's not get ahead of ourselves; there's actually alot left to do on t
 This is what I can think of right now. I'll most definitely think of more things in the future, but let's leave it at this short list for now! Here's my song that I wrote about earlier (I'm not giving you the vid, cause my singing ain't good):
 
 
-
-Here's the text I tried to sing:
-
-
 >Bye bye, Sweden <br />
 Bye bye, sweet home <br />
 I’m gonna have a new adventure <br />
