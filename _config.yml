@@ -31,9 +31,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-# disqus:
-#   shortname: https-aforslow-github-io
-comments: true
+disqus:
+  shortname: https-aforslow-github-io
+# comments: true
+google_analytics: UA-NNNNNNNN-N
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

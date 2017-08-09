@@ -61,7 +61,7 @@ High waves to be surfing down <br />
 
 Oh, and welcome to my travelling blog!
 
-{% if site.comments %}
+<!-- {% if site.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -83,4 +83,4 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-{% endif %}
+{% endif %} -->
