@@ -34,7 +34,7 @@ plugins:
 # disqus:
 #   shortname: https-aforslow-github-io
 comments: true
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UA-104287556-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
