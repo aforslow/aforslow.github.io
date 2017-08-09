@@ -21,9 +21,8 @@ Anyways, let's not get ahead of ourselves; there's actually alot left to do on t
 * Boxes for +/- (positive and negative) about the experience I had in the post. For example, if I visit a city, I can list the positive and negative aspects of that visit. That way, it is easy to get a quick view of the overall experience in the post, as well as a list of tips for your eventual journey to the same place.
 * Images next to the posts in the front page. If photos were taken and belongs to the post, why not show a miniature of one of the photos on the front page?
 
-This is what I can think of right now. I'll most definitely think of more things in the future, but let's leave it at this short list for now! Here's my song that I wrote about earlier (yeah, I'm not that good at singing yet, and mistakes were made - but yay, I've started singing a bit now! Sad that my guitar can't come with me to Singapore...):
+This is what I can think of right now. I'll most definitely think of more things in the future, but let's leave it at this short list for now! Here's my song that I wrote about earlier (I'm not giving you the vid, cause my singing ain't good):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3nHFstYAVsM" frameborder="0" allowfullscreen></iframe>
 
 
 Here's the text I tried to sing:
@@ -42,7 +41,7 @@ We’re gonna see a lot of <br />
 Sunshine, <br />
 moonlight, <br />
 warm nights, <br />
-Big heights <br />
+City lights <br />
 >
 >We can never be certain of <br />
 This flight that we’re all set above <br />
@@ -60,7 +59,7 @@ We’re gonna see a lot of <br />
 Sunshine, <br />
 moonlight, <br />
 warm nights, <br />
-Big heights, <br />
+City lights, <br />
 High waves to be surfing down <br />
 <br />
 
