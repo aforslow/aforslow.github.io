@@ -21,7 +21,7 @@ Anyways, let's not get ahead of ourselves; there's actually alot left to do on t
 * Boxes for +/- (positive and negative) about the experience I had in the post. For example, if I visit a city, I can list the positive and negative aspects of that visit. That way, it is easy to get a quick view of the overall experience in the post, as well as a list of tips for your eventual journey to the same place.
 * Images next to the posts in the front page. If photos were taken and belongs to the post, why not show a miniature of one of the photos on the front page?
 
-This is what I can think of right now. I'll most definitely think of more things in the future, but let's leave it at this short list for now! Here's my song that I wrote about earlier (I'm not giving you the vid, cause my singing ain't good):
+This is what I can think of right now. I'll most definitely think of more things in the future, but let's leave it at this short list for now! Here's my song that I wrote about earlier (I'm not giving you the vid, cause I can't sing for shit):
 
 
 >Bye bye, Sweden <br />
@@ -59,6 +59,10 @@ City lights, <br />
 <br />
 
 Oh, and welcome to my travelling blog!
+
+
+![My travel bag before leaving]({{ site.url }}/images/travel_bag.jpg)
+
 
 {% if site.comments %}
 <div id="disqus_thread"></div>
