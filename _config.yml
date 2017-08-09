@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 disqus:
-  hostname: https-aforslow-github-io
+  shortname: https-aforslow-github-io
 # environment: production
 
 # Exclude from processing.
