@@ -11,4 +11,4 @@ Anyways, if you're interested in travelling cheap with good service, Qatar Airwa
 
 And alright, It's pretty boring sitting down in a plane for such an extended period of time, especially when you have kids screaming like they've just seen their death. Glad that's over. And sure, it would have been nice if I travelled first class. Actually, that would have been awesome. But for 3500 kr, to go around half the world; it's a great deal!
 
-Update: Now I'm on land again, and I gotta say, Doha Airport looks pretty fresh! Everything is really clean, expensive and shiny. Almost like home, in other words! 
+Update: Now I'm on land again, and I gotta say, Doha Airport looks pretty fresh! Everything is really clean, expensive and shiny. Almost like home, in other words!

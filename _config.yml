@@ -25,16 +25,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AForslow
 github_username:  aforslow
-# excerpt_separator: <!--more-->
-# Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-# disqus:
-#   shortname: https-aforslow-github-io
 comments: true
 google_analytics: UA-104287556-1
+# disqus:
+#   shortname: https-aforslow-github-io
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
