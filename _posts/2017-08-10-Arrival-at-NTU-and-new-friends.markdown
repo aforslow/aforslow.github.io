@@ -23,3 +23,27 @@ Until, of course, I got it confirmed that NTU might be a super strict university
 Also, this is a reason why, if you choose to study and live in NTU, you should travel alot and network in order to get out of its rules and influence more freely, on your own accords. Just keep up the stamina for socializing, and realize that this is actually an opportunity to see how far your abilities to network reaches. I will definitely practice this, anyways, and I hope it will help me get to the sociable ideal I work towards. But in all fairness, choose NUS if there's ever a doubt in your mind! These rules are extreme.
 
 Anyways, it's late and I should definitely get to sleep now. This day has definitely been a rollercoster, and to sum it up, I thus far strongly dislike the university, but strongly like the people. But I'm very grateful, because it isn't the other way around. Perhaps some of these initial views will change further on, though, as I start to see from more perspectives.
+
+{% if site.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = page.url;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = page.url; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-aforslow-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
