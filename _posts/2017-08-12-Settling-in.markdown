@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Settling in"
+date:   2017-08-12 01:47:00 +0200
+categories: jekyll update
+---
 Okay, so this is probably going to be a pretty short post, as it's pretty late now, and I need to go to sleep very soon.
 
 Anyways, today 5 things happened, basically:
