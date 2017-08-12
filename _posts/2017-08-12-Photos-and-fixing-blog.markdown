@@ -5,4 +5,4 @@ date:   2017-08-12 09:47:00 +0200
 categories: jekyll update
 ---
 
-Okay, so here's a link to my photo album on [Google Photos]{{https://goo.gl/photos/NubcaJFniJq35okw8}}
+Okay, so here's a link to my photo album on [Google Photos](https://goo.gl/photos/NubcaJFniJq35okw8)
