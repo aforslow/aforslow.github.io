@@ -4,9 +4,9 @@ title: Tips
 permalink: /tips/
 ---
 
-## About
+## Tips
 
-WebJeda is a web designing company
+This will be the tips page for my Singapore studies. In here, I will put up categorical posts about tips directed towards future exchange students at NTU/Singapore or travellers in Singapore and Asia.
 .
 .
 .
