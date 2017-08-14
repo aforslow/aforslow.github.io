@@ -7,4 +7,4 @@ categories: jekyll update
 
 So... I played basketball instead of swimming, and it turns out that 900 kr special fabric golf shorts don't hold when falling on the ground. Guess they only focused on getting them as thin as possible... :(
 
-  ![shorts torn apart]({{ site.url }/images/destroyed_shorts.jpg})
+  ![shorts torn apart]({{ site.url }}/images/destroyed_shorts.jpg)
