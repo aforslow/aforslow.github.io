@@ -15,6 +15,7 @@ Regarding my social life, the networking flow is decelerating a bit now. I've no
 Oh, and regarding the Swedish people, I hung out with some of them and another friend of mine at the pool all day earlier today. In the evening, we went to the city center to try fish head and chili crab, as well as to see the light show by the marina bay. The city is beautiful at night!
 
 ![Swedish hangout]({{ site.url }}/images/hangout_08_18.jpg)
+Fish head:
 ![Fish head]({{ site.url }}/images/fish_head.jpg)
 ![Light show]({{ site.url }}/images/light_show.jpg)
 
@@ -30,3 +31,7 @@ Even earlier this week, on Monday, I got to see the Swedish principal of this sc
 Oh, and this last picture is of this cleaning lady who was going up in the elevator, pushed 2 buttons for some floors, and then left it. All before I went up in it... Some people just want to watch the world burn..!
 
 ![Cleaning lady]({{ site.url }}/images/elevator.jpg)
+
+Oh, and here is a selfie for you!
+
+![Selfie]({{ site.url }}/images/selfie.jpg)
