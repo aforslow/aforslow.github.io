@@ -15,13 +15,15 @@ Regarding my social life, the networking flow is decelerating a bit now. I've no
 Oh, and regarding the Swedish people, I hung out with some of them and another friend of mine at the pool all day earlier today. In the evening, we went to the city center to try fish head and chili crab, as well as to see the light show by the marina bay. The city is beautiful at night!
 
 ![Swedish hangout]({{ site.url }}/images/hangout_08_18.jpg)
-Fish head:
+
 ![Fish head]({{ site.url }}/images/fish_head.jpg)
+
 ![Light show]({{ site.url }}/images/light_show.jpg)
 
 Earlier this week, I also tried out water polo with a gang of 20 ripped men in their prime years  of their life, and me. We started the training session by swimming as fast as we could in free swim, breast swim and butterfly swim. I couldn't do butterfly swimming, but I tried anyways. I tried to race the others, but what should you expect when you're competing against an Imperial College student with years of competitive training in butterfly swimming in his pocket? All of this led to me needing to take a 10 minute break after 10 minutes of training, and I thought about quitting then and there. Luckily for me, that was the hard part of the training, and the rest was basically practice with ball in the pool. I also saw, in the middle of the session, that another group started to play kayak polo in the other pool halfway through the training, which I am going to participate in next Tuesday (yay)!
 
 ![Water polo]({{ site.url }}/images/water_polo.jpg)
+
 ![Kayak polo]({{ site.url }}/images/kayak_polo.jpg)
 
 Even earlier this week, on Monday, I got to see the Swedish principal of this school. He held an introductory speech followed by Singaporean national propaganda songs from some half-decent school band. I should talk to him sometime. Would be kind of cool to get to know someone with such great influence and achievements in his pocket. He also seems like a pretty nice principal!
