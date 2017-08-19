@@ -16,3 +16,27 @@ Anyways, I messaged a friend to help me get to a medic center later on during th
 First thing in the morning though, I took my temperature, and it had risen to 38.8 - enough to go to the hospital and get medical help from professionals. I should perhaps be worried, but knowing that Singapore has the best health care in the world, I feel quite safe. It is probably some bacterial infection, so some penicillin should do the trick to get me healthy again.
 
 I will, anyways, go to the hospital later today with Vassilis, and contact my family about it, so they don't hear the first word of it from the hospital if that were to happen. That would probably freak them out and get them too worried for what it is. Maan, all I want is to get better, so that I can get my energy back and keep on hanging out with everyone here. Damnit, tropical diseases, why art thou a bitch?
+
+{% if site.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = page.url;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = page.url; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-aforslow-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
