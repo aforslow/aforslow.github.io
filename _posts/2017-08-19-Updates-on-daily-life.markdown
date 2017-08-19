@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Updates on daily life"
+date:   2017-08-19 00:30:00 +0800
+categories: jekyll update
+---
 
 So I have been a bit bad at writing on this blog these couple of days, since it's a lot to deal with social life and course registration. Anyways, I am down to having Fridays free, with one class on Thursdays. I will now try to also get Thursdays free. The courses I will read are, thus far:
 
