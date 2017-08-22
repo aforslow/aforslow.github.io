@@ -4,11 +4,9 @@ title: Travelling tips
 permalink: /travelling-tips/
 ---
 
-## Travelling tips
+Leave your travelling tips for Asia down in the comments section below, and I will try to update this page with them, as well as places I have visited.
 
 ![Travelling image](https://www.travelex.com/media/2573/16083767_ml.jpg)
-
-Leave your travelling tips for Asia down in the comments section below, and I will try to update this page with them, as well as places I have visited.
 
 {% if site.comments %}
 <div id="disqus_thread"></div>
