@@ -25,7 +25,7 @@ After this, we managed to find my favorite part of the park, where we managed to
 
 
 
-Here below are some more images from the birdpark! And of course, if you want to see more of the adventures, just follow my google photos album for my exchange studies: https://goo.gl/photos/NubcaJFniJq35okw8
+Here below are some more images from the birdpark! And of course, if you want to see more of the adventures, just follow my google photos album for my exchange studies: [Google photos album link](https://goo.gl/photos/NubcaJFniJq35okw8)
 
 ![red bird](https://lh3.googleusercontent.com/v6uWbVcZOrcm06VJHdmm6ZWOsNMqCiuTDPhCCa90XF2pA7viflmXY3qHhW4SWsfunwC2rpKyzyyoft_1sox_T-ilaA_JgucID_Zmoufv2VNGZ2GwONzlsyUir-4zuXsZlYX3je5gbw)
 
