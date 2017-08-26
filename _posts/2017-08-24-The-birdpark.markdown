@@ -9,7 +9,7 @@ So today, me, Eric Liu, Lukas Wasserthal and Markus Fa went to the birdpark. App
 
 Anyways, the bird park was a great deal of fun! Whilst there, we first went on a birdshow, on which a parrot sang happy birthday to an old asian lady in the crowd, among other things. The show ended with a massive amount of flamingos strolling into the arena, making it feel like it all got out of hand.
 
-<iframe width="500" height="420" src="https://lh3.googleusercontent.com/N_nSIU2kW1FZFSwMf1-OjSRUPmjF950KpgDeAPhLHl2Nc_WTNwBK1cVYONod5dCqckoahUBiztTaFhK3tp4HZH0EU91Lb_ItGCAh9K619dDlHzH6e3JMizp131GXUhx3HWL7u0Z8tQ"></iframe>
+<iframe src="https://drive.google.com/file/d/0B3uNXuef34TxbzFyOE1Pbl95QXM/preview" width="640" height="480"></iframe>
 
 A few minutes later, I apparently stand on the stage of the next bird show, which was about big predator birds. I put my hand up for volunteering and got to feed some sort of vulture under a couple of minutes of awkwardly answering the host's questions. I think the rest of the gang managed to snap some pictures of it, but unfortunately I do not have any. Anyways, here's an american eagle that I took a picture of!
 
