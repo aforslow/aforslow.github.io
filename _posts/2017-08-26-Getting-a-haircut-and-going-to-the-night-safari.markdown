@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Getting a haircut and going to the Night Safari"
+date:   2017-08-26 23:00:00 +0800
+categories: jekyll update
+---
 
 So today I went to Boon Lay to get a haircut. Apparently I have not had one in two months, so it was really necessary to get rid of some hair. We have a Korean haircutter on Campus, but apparently he is not good at all, so I went with Timothy the Swiss dude's advice, and took the 199 bus to Boon Lay, and got a haircut at Hairlicious. It was really hard to find the place, as I had to search the bottom- and mid-floors before I finally found it on the third floor. Having found it, I immediately got an appointment and was sat down in front of a mirror to describe my innermost wishes about what was soon about to happen. In other words, I told them I wanted shorter hair, basically. Also, they started laughing when they saw that I probably had not cut my hair in two months. Those bastards...
 
