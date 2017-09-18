@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: "Leaving for Hong Kong"
+date:   2017-09-14 22:50:00 +0800
+categories: jekyll update
+---
 
 Turns out, the weeks get pretty hectic when you travel every weekend. I wanted to write about Angkor Wat before I left, but unfortunately I have had other things to do. Planning trips almost takes more time than studying, and above that, I have to fix a position for my Master's Thesis next spring, and preferrably an internship for the summer at a nice company. As it turns out, the big american companies' applications are open now for a month forward, and I actually want to try my luck in finding a job here! Therefore, I have taken this entire day and most of yesterday evening to create a latex template for my CV and Cover Letter documents (for those who do not know, latex is a programming language in which one can design documents). I finished with this three hours ago, and now they are handed in for review by my brother, the social strategic expert bankerman with fine skills in job applications. If you read this Marcus, I hope that it is awesome in the 'new' appartment with Maria! And I am not only telling you that because I want to enjoy free accomodation and food in the future. I am 30% serious!
 
