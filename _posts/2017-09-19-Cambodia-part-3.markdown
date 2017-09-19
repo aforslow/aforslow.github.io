@@ -21,9 +21,15 @@ Exiting the market, we headed for the postal office, because Lukas had to send s
 
 ![nice temple](https://lh3.googleusercontent.com/O6i1GyeSmXSUAeuE8CqATJ3v9gzTwRKf9QHaKMsV72Z94R_3lb2jVwljJLWUoFM0_V52ijzB-wJrktBWh9bpBLph7FvsJe0fDn74Tac3AEW_N12Khl9fh-RDP4Cdumz3pyMdF2phWQ)
 
-Heading back home from the post office, Sara seemed to have found her natural habitat, and I found some new friends!
+Heading back home from the post office, Sara seemed to have found her natural habitat, and I found some new friends (and enemies)!
 
 ![saras natural habitat](https://lh3.googleusercontent.com/dB2z47v5VwlZs5GUYefWY7u6frrlHXEViP-xM1iuLhBGEDIIt74RuQPfy8dkDmzaptnu9w-42OLo3_C4qptmLzQqBVjOUAzVwGs-Benwx3hTp6rEe4vIzmIDPqk1dTB6uOwnJBR5zA)
+
+![my friend 1](https://lh3.googleusercontent.com/rXaq4lEhBJx8rBzGE-hsBqQVy6npqWvlShUEVG3_tXqDTaPS6jbTWHCqSoR4BFM10Ssc5tE1RONljcuJwpyR5hjDLZQTmEYRvPJGov9v0nfSA9NlZZiNgYHdPB5iYgv0ftlL9dQIMw)
+
+![my friend 2](https://lh3.googleusercontent.com/rXsFt4259DyUJvm51rHsw85DQ7LO_GX2L_YuYj0CylRt-pqWFCc6qQWHFeazeTeJYfyVHslv3om4fSCKkfRb0pGrbbWQSRBK-V7l8DUo12OTAoKe34sjNrA3kiYw8I9aMVgWJgb0TA)
+
+![my enemy](https://lh3.googleusercontent.com/6CpoLQ0h67TUAEVYG1jKe0ytbb3nljR7PETGKXRdsijsDVAbtJ9LIqh4Oqwx-XdEQyAfOfudLSakNzICru7Ea7pWKlT_s8i2JRYHFaciQc60pEewh5IFz2bw-Ha-knd7Y06JsbEm0A)
 
 After this, we got back to the hostel, hung out by the pool and ordered some food from the hostel. Food from the hostel should not be ordered. I ordered a BLT sandwich in hopes of finally getting some bacon after having experienced Asia's complete lack of it. Turns out bacon means fried ham. The others ordered sandwiches and a curry, and they were mostly disappointed as well. We had to wait for 45 minutes to get something so simple to eat, and it did not taste that good, in addition to it postponing our departure to the fishing village to which we were about to head. We had to leave in a hurry with food pushed down in home-made take-away packaging. Leaving me with no opportunity to complain about their bad food quality and service. It was also quite expensive, as it cost 4 USD. Therefore, take my advice and do not order food from the hostel.
 
