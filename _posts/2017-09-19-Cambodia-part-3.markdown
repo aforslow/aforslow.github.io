@@ -125,6 +125,8 @@ This is the end of my Cambodia stories. Thank you for having read through it all
 
 Next up is Hong Kong!
 
+Oh, and I totally forgot... The disgusting thing in the Old Market was a 30 cm big rat (not counting the tail) stepping on my bare foot (as I was wearing sandals) whilst running to get cover underneath a table where they sold groceries. I would therefore never recommend buying any groceries off of this market...
+
 {% if site.comments %}
 <div id="disqus_thread"></div>
 <script>
