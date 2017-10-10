@@ -16,11 +16,11 @@
 title: Andreas Travels
 email: andreas.forslow@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my travelling blog!
+  My name is Andreas Forslöw, and this is my travelling blog!
   I am travelling to Singapore for exchange studies at Nanyang Technological
-  Institute over the Fall of 2017. Being a soon-to-graduate software developer,
-  this is an opportunity for me to both practice coding, as well as sharing my
-  experience!
+  Institute (NTU) over the Fall of 2017. Being a soon-to-graduate software developer,
+  this is an opportunity for me to both practice coding,
+  as well as sharing my experience!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AForslow
