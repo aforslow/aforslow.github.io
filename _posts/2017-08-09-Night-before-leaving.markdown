@@ -63,7 +63,6 @@ Oh, and welcome to my travelling blog!
 
 ![My travel bag before leaving]({{ site.url }}/images/travel_bag.jpg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mallard2.jpg/1183px-Mallard2.jpg" />
 {% if site.comments %}
 <div id="disqus_thread"></div>
 <script>
