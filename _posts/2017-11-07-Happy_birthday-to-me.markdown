@@ -7,5 +7,5 @@ categories: jekyll update
 
 Happy birthday to me! I am now 23 years old!
 
-<iframe width="500" height="315" src="/images/happy_birthday.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="315" src="/images/happy_birthday.mp4" frameborder="0" allowfullscreen></iframe>
 <!-- ![Happy birthday to me]("/images/happy_birthday.mp4") -->
