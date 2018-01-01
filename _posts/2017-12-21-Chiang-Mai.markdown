@@ -5,6 +5,8 @@ date:   2017-12-21 13:00:00 +0800
 categories: jekyll update
 ---
 
+If you want to see the pictures of this trip, take a look at this [Google Photos album](https://photos.app.goo.gl/O6V7xQVnZxdiwKit1) that I created for this trip!
+
 I am now sitting on the flight back to Singapore. It is Thursday 21st of December, and tomorrow I will come back home to Sweden. Four and a half months of living abroad has at last come to an end, and I feel ready to see my family, my friends, my home and speak in my native language again. It feels a little bit surreal and quite big, and that is why I wanted to start this post with sharing this unique moment with you.
 
 Poetic words aside, I have now finished my last trip in Asia, and this time I went to Chiang Mai (Thailand), Ho Chi Minh (Vietnam), Da Lat (Vietnam), Hanoi (Vietnam) and Ha Long Bay (Vietnam). I did the Chiang Mai trip with my cousin's boyfriend Leo, that has been backpacking in Southeast Asia this semester, and an exchange buddy Kristian the tyrant (yes, I wrote about this in my last post). Having finished all my trips in Asia now, I can say that Chiang Mai was my favorite location out of all the trips, and I will tell you why below. First, however, a list of tips for Chiang Mai:
