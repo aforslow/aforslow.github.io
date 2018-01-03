@@ -113,7 +113,7 @@ It was a temple floor turned into a haunted house, and I ended up walking here f
 
 ![wtf](https://lh3.googleusercontent.com/x0JZTQR5KAaZeIgs88SMamCP9t5KD-W6Pio_9iqoxquxUyBpY_JVMw-2r2ubmn8ZnnxMRlV7ur79osr9MzZ0YFwwpT0qOoIsegwiNJKvrxIDd6ilweo9u7uZzd0KC4uzHE6qUhjKaA)
 
-I now took my bike to the street café Panorama Café Dalat that I had seen on the way here and grabbed a coffee for 40,000 Dong (ca 1.5 EUR) to get a great view of a valley.
+I now took my bike to a street café, Panorama Café Dalat, that I had seen on the way here and grabbed a coffee for 40,000 Dong (ca 1.5 EUR) to get a great view of a valley.
 
 ![valley coffee](https://lh3.googleusercontent.com/S08camR0JTMlJX8YIwbbAE2kClp3xdIM5YuF8qArgbzhZAJpNm8GgVLhBNbzfTQerAZb75-9hUIARC7VITiiBtLNBGe31qkeyPzt0yx4NViXTuUgvAwSEUcp_r6sKbWEKtaDbdF5Gw)
 
