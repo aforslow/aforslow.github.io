@@ -5,6 +5,8 @@ date:   2017-12-25 11:00:00 +0800
 categories: jekyll update
 ---
 
+Before we begin, here is the [Google Photos album](https://photos.app.goo.gl/RrLVoJlGEuXFW0mz2) that I made for this trip.
+
 Alright, I had never done a solo trip before, and Ho Chi Minh city was the first city on my list in Vietnam. I spent a short one and a half days here and will thus make a shorter post about this city. First, however, a list of tips for you:
 
 * Ho Chi Minh city airport does not have wifi. I have relied on wifi to work on every airport up until this point, which it has done. That is why I was shocked to find out that it did not, and all of a sudden I was put in a siutation where I could not find out the necessary information I needed for the city - something that set me up for a scam.
