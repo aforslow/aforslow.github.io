@@ -5,7 +5,9 @@ date:   2017-12-25 11:00:00 +0800
 categories: jekyll update
 ---
 
-Before we start off with the story, here are some tips:
+Before we start, here is the [Google Photos album](https://photos.app.goo.gl/fyCicq9iyws7UCeh1) for this trip!
+
+Next up are some tips for the trip:
 
 * Taxi from airport costs 170,000 Dong (ca 6 EUR). Get this fixed price instead of going with grab or taxameter, as you in this case will have to pay twice as much! In general, I think Grab is more expensive than regular taxi in Vietnam, unless you get scammed.
 * Do canyoning. You start out around 8 am and climb down canyons by a river. You do it in a group of around 8 people, and you eat picnic food together after the canyoning has finished. You are done around 14, and hopefully you have made some friends to hang out with later. Your shoes will get wet, and it costs 50 USD.
