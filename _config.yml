@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   experience of NTU, Singapore and Asia, I want this blog to work as a guide
   for future exchange students at NTU!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://aforslow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aforslow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AForslow
 github_username:  aforslow
 markdown: kramdown
