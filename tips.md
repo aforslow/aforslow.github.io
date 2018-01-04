@@ -45,6 +45,12 @@ During the first two weeks, everyone is a social butterfly and take every opport
 My best advice for finding new friends is to hang out at Canteen 2 early on and ask even the simplest questions to strangers instead of googling them if you can. There will probably also be a WhatsApp chat group for exchange students that you can use to network. I regret not using this, as it would have provided me with a wider network during the exchange. Remember that after the first 3-4 weeks, it will be a lot harder to get new friends, as most people will have settled down with a group of friends, and they will start focusing more on their studies and travels.
 
 
+
+
+
+
+
+
 ## Make a budget before you go, and set aside money for travelling
 
 I did this, and it helped me in keeping track of my costs and not be too greedy about my expenditures. Unfortunately, I lost track of my expenditures after half of my exchange semester, which I think made me spend more than I had originally planned. It was, nevertheless, a good way of making logical decisions about how much my average travels should cost, how many travels I should do, and how much I should spend on food every week.
