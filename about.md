@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![Profile Picture](https://lh3.googleusercontent.com/7DU1qcdTNTkZay_lfz4VJsiUjhR_6-dhTrpNp3F49YoHGZMpCmwVRU_XSvuyQALBnsiy1YG2VckGFV6F7XoBcNnmWD0XIP0kcylIKsjCvn-k-M5gE7ZO7D_lk-kMexYoZh62MtPehQ)
+<!-- ![Profile Picture](https://lh3.googleusercontent.com/7DU1qcdTNTkZay_lfz4VJsiUjhR_6-dhTrpNp3F49YoHGZMpCmwVRU_XSvuyQALBnsiy1YG2VckGFV6F7XoBcNnmWD0XIP0kcylIKsjCvn-k-M5gE7ZO7D_lk-kMexYoZh62MtPehQ) -->
+
+<img src="https://lh3.googleusercontent.com/7DU1qcdTNTkZay_lfz4VJsiUjhR_6-dhTrpNp3F49YoHGZMpCmwVRU_XSvuyQALBnsiy1YG2VckGFV6F7XoBcNnmWD0XIP0kcylIKsjCvn-k-M5gE7ZO7D_lk-kMexYoZh62MtPehQ" alt="Profile Picture" style="width: 800px;"/>
 
 Hi!
 
