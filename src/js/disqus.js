@@ -1,7 +1,8 @@
 var disqus_config = function () {
-this.page.url = page.url;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = page.url; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
+      // we are using document.location.* here because Jekyll code does not work well in JS code.
+      this.page.url = document.location.href;
+      this.page.identifier = document.location.pathname;
+    };
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
