@@ -17,12 +17,12 @@ title: Andreas Travels
 email: andreas.forslow@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My name is Andreas Forslöw, and this is my NTU travelling blog!
-  I am travelling to Singapore for exchange studies at Nanyang Technological
-  Institute (NTU) over the Fall of 2017. Being a soon-to-graduate software developer,
-  this is an opportunity for me to both practice coding,
-  as well as sharing my travel experiences!
+  I travelled to Singapore for exchange studies at Nanyang Technological
+  Institute (NTU) over the Fall of 2017. As I have gained quite a bit of
+  experience of NTU, Singapore and Asia, I want this blog to work as a guide
+  for future exchange students at NTU!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://aforslow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AForslow
 github_username:  aforslow
 markdown: kramdown
