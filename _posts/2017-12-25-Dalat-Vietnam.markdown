@@ -3,6 +3,7 @@ layout: post
 title: "Da Lat, Vietnam"
 date:   2017-12-25 11:00:00 +0800
 categories: jekyll update
+comments: true
 ---
 
 Before we start, here is the [Google Photos album](https://photos.app.goo.gl/fyCicq9iyws7UCeh1) for this trip!
