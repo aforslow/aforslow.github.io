@@ -30,6 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 comments: true
+disqus_developer: 1
 google_analytics: UA-104287556-1
 # disqus:
 #   shortname: https-aforslow-github-io
